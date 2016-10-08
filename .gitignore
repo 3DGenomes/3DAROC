@@ -8,8 +8,9 @@ __pycache__/
 *.fa
 *.gem
 
-fragment/*
-iterativ/*
+FASTQ
+results
+genome
 
 chromosome_list.txt
 
