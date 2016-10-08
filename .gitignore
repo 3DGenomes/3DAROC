@@ -8,7 +8,7 @@ __pycache__/
 *.fa
 *.gem
 
-FASTQ
+FASTQs
 results
 genome
 
