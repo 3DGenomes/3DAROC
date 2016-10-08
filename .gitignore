@@ -11,6 +11,8 @@ __pycache__/
 fragment/*
 iterativ/*
 
+chromosome_list.txt
+
 # C extensions
 *.so
 
