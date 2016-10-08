@@ -1,6 +1,6 @@
 #         3DAROC
 
-![](/Foto-DNA_MMarti_0.jpg?raw=True)
+![](/Documents/Logo/Foto-DNA_MMarti_0.jpg?raw=True)
 
 
 ## Course description
