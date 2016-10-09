@@ -23,3 +23,13 @@ It is likely that the participants to this course aim at getting involved in gen
 ## Course Pre-requisites
 
 Recommended Linux and basic Python programming skills, graduate level in Life Sciences. 
+
+## Content
+
+|       | Core pipeline | Annex | 
+|-------|-----------------|------------|
+| day 1 | <ul><li>[Hi-C Quality check](/Notebooks/00-Hi-C quality check.ipynb)</li><li>[Mapping](/Notebooks/01-Mapping.ipynb)</li><li>[Parsing mapped reads](/Notebooks/02-Parsing mapped reads.ipynb)</li><li>[Filterind reads](/Notebooks/03-Filtering mapped reads.ipynb)</li></ul> | <ul><li>[Software installation](/Notebooks/A0-Preparing your computer for HiC data analysis.ipynb)</li><li>[Prepare reference genome](/Notebooks/A1-Preparation reference genome.ipynb)</li><li>[Download Hi-C experiment](/Notebooks/A2-Download published Hi-C experiments.ipynb)</li></ul> |
+| day 2 | <ul><li>[Normalization](Notebooks/04-Bin-filtering and normalization.ipynb)</li></ul> | <ul><li>[Compare experiments](/Notebooks/A3-Compare and merge Hi-C experiments.ipynb)</li></ul> |
+|day 3| <ul><li>[Compartments and TADs](/Notebooks/05-Compartments and TADs.ipynb)</li></ul> |  |
+|day 4| <ul><li>[Parameter optimization](/Notebooks/06a-Modeling - parameter optimization.ipynb)</li><li>[Model optimization](/Notebooks/06b-Modeling - model optimization.ipynb)</li><li>[Analysis of 3D models](/Notebooks/06c-Modeling - analysis of 3D models.ipynb)</li></ul> |  |
+
