@@ -33,3 +33,13 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 | day 3 | <ul><li>[Compartments and TADs](/Notebooks/05-Compartments and TADs.ipynb)</li></ul> | <ul><li>[Align and compare TADs](/Notebooks/A4-Align and compare TADs.ipynb)</li></ul> |
 | day 4 | <ul><li>[Parameter optimization](/Notebooks/06a-Modeling - parameter optimization.ipynb)</li><li>[Model optimization](/Notebooks/06b-Modeling - model optimization.ipynb)</li></ul> | <ul><li>[Analysis of 3D models](/Notebooks/A5-Modeling - analysis of 3D models.ipynb)</li></ul> |
 
+# Want more?
+## COURSES@CRG: Chromosomal Conformation
+
+5 days course (from September 28th to October 2nd) in Barcelona, more centered in the actual Hi-C experiment, but also a bit of bioinformatic analysis:
+
+- http://www.crg.eu/en/event/coursescrg-chromosomal-conformation
+
+
+
+
