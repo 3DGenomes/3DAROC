@@ -36,10 +36,9 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 # Want more?
 ## COURSES@CRG: Chromosomal Conformation
 
-5 days course (from September 28th to October 2nd) in Barcelona, more centered in the actual Hi-C experiment, but also a bit of bioinformatic analysis:
+5 days course (__28/11/2016 to 02/12/2016__) in Barcelona, more centered in the actual Hi-C experiment, but also a bit of bioinformatic analysis:
 
-- http://www.crg.eu/en/event/coursescrg-chromosomal-conformation
-
+- http://www.crg.eu/en/event/coursescrg-chromosomal-conformation-0
 
 
 
