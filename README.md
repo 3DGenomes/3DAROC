@@ -36,6 +36,8 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 
 Most of the tasks of the "core pipeline" can be tunned directly from command line (without any python), using [TADbit tool](/TADbit_tools). Have a look to the commands, and the metadata of the results. 
 
+_For now TADbit tool is not incuded in the general documetation, as it is still "under construction". Use it carefully, and don't hesitate to repport anyweird behaviour you observe._
+
 # Want more?
 <p>
 
