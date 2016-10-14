@@ -1,11 +1,12 @@
 # 3DAROC
 
-![](/Documents/Logo/Foto-DNA_MMarti_0.jpg?raw=True)
-
-
 ## Course description
 
+<p>
+<img align="left" src=/Documents/Logo/Foto-DNA_MMarti_0.jpg?raw=True>
 3C-based methods, such as Hi-C, produce a huge amount of raw data as pairs of DNA reads that are in close spatial proximity in the cell nucleus. Overall, those interaction matrices have been used to study how the genome folds within the nucleus, which is one of the most fascinating problems in modern biology. The rigorous analysis of those paired-reads using computational tools has been essential to fully exploit the experimental technique, and to study how the genome is folded in the space. Currently, there is a clear expansion on the wealth of data on genome structure with the availability of many datasets of Hi-C experiments down to 1Kb resolution (see for example: http://hic.umassmed.edu/welcome/welcome.php ; http://promoter.bx.psu.edu/hi-c/view.php or http://www.aidenlab.org/data.html ). In this course, participants will learn to use TADbit, a software designed and developed to manage all dimensionalities of the Hi-C data:
+</p>
+
 
  - 1D - Map paired-end sequences to generate Hi-C interaction matrices
  - 2D - Normalize matrices and identify constitutive domains (TADs, compartments)
@@ -35,8 +36,8 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 
 # Want more?
 ## COURSES@CRG: Chromosomal Conformation
-
-![](http://www.crg.eu/sites/default/files/styles/134x192_events_list/public/events/CRG_Cromosomal_conformation-2016_0.jpg?itok=v0rQ9D9X&raw=True) days course (__28/11/2016 to 02/12/2016__) in Barcelona, to learn how to perform 3C experiments and assess their quality through different quality controls. The course will also provide the basic bioinformatic knowledge to analyze the data generated.
+<p>
+<img align="left" src=http://www.crg.eu/sites/default/files/styles/134x192_events_list/public/events/CRG_Cromosomal_conformation-2016_0.jpg?itok=v0rQ9D9X&raw=True> 5 days course (__28/11/2016 to 02/12/2016__) in Barcelona, to learn how to perform 3C experiments and assess their quality through different quality controls. The course will also provide the basic bioinformatic knowledge to analyze the data generated.</p>
 
 - http://www.crg.eu/en/event/coursescrg-chromosomal-conformation-0
 
