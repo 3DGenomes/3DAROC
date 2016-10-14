@@ -32,7 +32,7 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 | Day3 | <ul><li>[Morning wrap up](/Presentations/Day2/01_20161012_Summary_of_day_2.pdf)</li><li>[Applications(II): Caulobacter](/Presentations/Day2/02_20161012_Applications(II)_Caulobacter.pdf)</li><li>[Applications(III): TAD hormone](/Presentations/Day2/02_20161012_Applications(III)_TAD_hormone.pdf)</li><li>[Normalization & comparison](/Presentations/Day2/02_20161012_NormalizationComparison.pdf)</li></ul>| <ul><li>[Compartments and TADs](/Notebooks/05-Compartments and TADs.ipynb)</li></ul> | <ul><li>[Align and compare TADs](/Notebooks/A4-Align and compare TADs.ipynb)</li></ul> | <li>Validation 3D models: 0.0</li><li>Compartment/TAD calling: 4.5</li><li>TADbit usage: 4.2</li>|
 | Day4 | <ul><li>[Morning wrap up](/Presentations/Day4/01_20161013_Summary_of_day_3.pdf)</li><li>[Applications(IV): Fly colors](/Presentations/Day4/02_20161013_Applications(IV)_FlyColors.pdf)</li></ul>| <ul><li>[Parameter optimization](/Notebooks/06a-Modeling - parameter optimization.ipynb)</li><li>[Model optimization](/Notebooks/06b-Modeling - model optimization.ipynb)</li></ul> | <ul><li>[Analysis of 3D models](/Notebooks/A5-Modeling - analysis of 3D models.ipynb)</li></ul> |
 
-# TADbit tools
+## TADbit tools
 
 Most of the tasks of the "core pipeline" can be tunned directly from command line (without any python), using [TADbit tool](/TADbit_tools). Have a look to the commands, and the metadata of the results. 
 
