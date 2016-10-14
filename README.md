@@ -37,7 +37,7 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 
 <img align="left" src=http://www.crg.eu/sites/default/files/styles/134x192_events_list/public/events/CRG_Cromosomal_conformation-2016_0.jpg?itok=v0rQ9D9X&raw=True>
 <h2>COURSES@CRG: Chromosomal Conformation</h2>
-5 days course (<b>28/11/2016 to 02/12/2016</b>) in Barcelona, to learn how to perform 3C experiments and assess their quality through different quality controls. The course will also provide the basic bioinformatic knowledge to analyze the data generated.</p>
+5 days course (<b>28/11/2016 to 02/12/2016</b>) in Barcelona, to <b>learn how to perform 3C experiments</b> and assess their quality through different <b>quality controls</b>. The course will also provide the basic bioinformatic knowledge to analyze the data generated.</p>
 
 - http://www.crg.eu/en/event/coursescrg-chromosomal-conformation-0
 
