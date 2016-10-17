@@ -23,14 +23,6 @@ It is likely that the participants to this course aim at getting involved in gen
 
 Recommended Linux and basic Python programming skills, graduate level in Life Sciences. 
 
-_This tutorial is associated with a specific version of TADbit, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2016`. To install this version do:_
-
-    git clone https://github.com/3dgenomes/tadbit
-    cd tadbit
-    git checkout tags/3DAROC_2016
-    sudo python setup.py install
-
-
 ## Content
 
 |                  | Lectures (pdf)                          | Core pipeline (notebooks)               | Annex (notebooks)                 | Feedback (1: not clear; 5: very clear) |
@@ -45,6 +37,19 @@ _This tutorial is associated with a specific version of TADbit, if you wish to r
 Most of the tasks of the "core pipeline" can be tunned directly from command line (without any python), using [TADbit tool](/TADbit_tools). Have a look to the commands, and the metadata of the results. 
 
 _For now TADbit tool is not incuded in the general documetation, as it is still "under construction". Use it carefully, and don't hesitate to repport anyweird behaviour you observe._
+
+
+## TADbit version
+
+This tutorial is associated with a __specific version of TADbit__, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2016`.
+
+To install this version do:
+
+    git clone https://github.com/3dgenomes/tadbit
+    cd tadbit
+    git checkout tags/3DAROC_2016
+    sudo python setup.py install
+
 
 # Want more?
 <p>
