@@ -6,25 +6,25 @@ These command lines above would correspond to all the analysis detailed in the n
 
     ### yeast replica 1
     # map first end of the read to yeast reference genome (fragment based mapping). Estimated time: 7.5 min
-    tadbit map -w yeast_rep1 --fastq FASTQs/yeast_rep1_1.fastq.dsrc --read 1 --index genome/R64-1-1/GEM/R64-1-1.gem --renz DpnII -C 8
+    tadbit map -w yeast_rep1 --fastq FASTQs/yeast-10M_rep1_1.fastq.dsrc --read 1 --index genome/Saccharomyces_cerevisiae-R64_contigs.gem --renz DpnII -C 8
     # map other end of the read to yeast reference genome (fragment based mapping). Estimated time: 7.5 min
-    tadbit map -w yeast_rep1 --fastq FASTQs/yeast_rep1_yeast_2.fastq.dsrc --read 2 --index genome/R64-1-1/GEM/R64-1-1.gem --renz DpnII -C 8
+    tadbit map -w yeast_rep1 --fastq FASTQs/yeast-10M_rep1_2.fastq.dsrc --read 2 --index genome/Saccharomyces_cerevisiae-R64_contigs.gem --renz DpnII -C 8
     # parse mapped reads data into a new BED-like file. Estimated time: 18 min
-    tadbit parse -w yeast_rep1 --genome genome/R64-1-1/R64-1-1.fa --compress_input
-    # Computes the intersection of the mapping of the two ends, and filter reads
-    tadbit filter -w yeast_rep1 --apply 1 2 3 4 6 7 9 10. Estimated time: 15 min
+    tadbit parse -w yeast_rep1 --genome genome/Saccharomyces_cerevisiae-R64.fa --compress_input
+    # Computes the intersection of the mapping of the two ends, and filter reads. Estimated time: 15 min
+    tadbit filter -w yeast_rep1 --apply 1 2 3 4 6 7 9 10
     # normalize Hi-C data. Estimated time: 1 min
     tadbit normalize -w yeast_rep1 -r 20000 --min_count 10
     
     ### yeast replica 2
     # map first end of the read to yeast reference genome (fragment based mapping). Estimated time: 7.5 min
-    tadbit map -w yeast_rep2 --fastq FASTQs/yeast_rep2_1.fastq.dsrc --read 1 --index genome/R64-1-1/GEM/R64-1-1.gem --renz DpnII -C 8
+    tadbit map -w yeast_rep2 --fastq FASTQs/yeast-10M_rep2_1.fastq.dsrc --read 1 --index genome/Saccharomyces_cerevisiae-R64_contigs.gem --renz DpnII -C 8
     # map other end of the read to yeast reference genome (fragment based mapping). Estimated time: 7.5 min
-    tadbit map -w yeast_rep2 --fastq FASTQs/yeast_rep2_2.fastq.dsrc --read 2 --index genome/R64-1-1/GEM/R64-1-1.gem --renz DpnII -C 8
+    tadbit map -w yeast_rep2 --fastq FASTQs/yeast-10M_rep2_2.fastq.dsrc --read 2 --index genome/Saccharomyces_cerevisiae-R64_contigs.gem --renz DpnII -C 8
     # parse mapped reads data into a new BED-like file. Estimated time: 18 min
-    tadbit parse -w yeast_rep2 --genome genome/R64-1-1/R64-1-1.fa --compress_input
-    # Computes the intersection of the mapping of the two ends, and filter reads
-    tadbit filter -w yeast_rep2 --apply 1 2 3 4 6 7 9 10. Estimated time: 15 min
+    tadbit parse -w yeast_rep2 --genome genome/Saccharomyces_cerevisiae-R64.fa --compress_input
+    # Computes the intersection of the mapping of the two ends, and filter reads. Estimated time: 15 min
+    tadbit filter -w yeast_rep2 --apply 1 2 3 4 6 7 9 10
     # normalize Hi-C data. Estimated time: 1 min
     tadbit normalize -w yeast_rep2 -r 20000 --min_count 10
     
