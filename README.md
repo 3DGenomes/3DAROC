@@ -64,7 +64,7 @@ Recommended Linux and basic Python programming skills, graduate level in Life Sc
 
 #### TADbit API
 
-This tutorial is associated with a __specific version of TADbit__, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2016`.
+This tutorial is associated with a __specific version of TADbit__, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2018`.
 
 To install this version do:
 
