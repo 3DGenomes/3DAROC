@@ -1,3 +1,4 @@
+
 # 3DAROC
 
 <p>
@@ -108,37 +109,41 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 |  *16:00 - 16:30* 	|  *Tea Break*  |
 |  16:30 - 18:00 	|  From raw data to Hi-C contact matrices  |
 |  **Day #2**  |  **Tuesday,  Sep 18th* |
-|  09:30 - 11:00		|  Morning wrap-up: what have we done so far?<br>Multiscale Genomics: From genomes to structures  |
-|  11:00 - 11:30		|  Coffee Break  |
-|  11:30 - 12:30		|  Coarse-Grained DNA and Chromatin Dynamics  |
-|  *12:30 - 14:00*		|  *Lunch Break*  |
-|  14:00 - 16:00		|  Nucleosome positioning  |
-|  *16:00 - 16:30* 	|  *Tea Break*  |
-|  16:30 - 18:00  |  Nucleosome Dynamics  |
-|  **Day #3**  |  **Wednesday, Sep 19th**  |
-|  09:30 - 11:00		|  Morning wrap-up: what have we done so far?<br>Biological applications (II)  |
+|  09:30 - 10:00		|  Morning wrap-up: what have we done so far?  |
+|  10:00 - 11:00		|  Biological applications (II)  |
 |  11:00 - 11:30		|  Coffee Break  |
 |  11:30 - 12:30		|  Compartment detection and analysis  |
 |  *12:30 - 14:00*		|  *Lunch Break*  |
 |  14:00 - 16:00		|  Topologically Associated Domains detection and analysis  |
 |  *16:00 - 16:30*		|  *Tea Break*  |
 |  16:30 - 18:00		|  Comparison between experiments  |
-|  **Day #4**  |  **Thursday, Sep 20th**	 |
-|  09:30 - 11:00		|  Morning wrap-up: what have we done so far?<br>Biological applications (III)  |
+|  **Day #3**  |  **Wednesday, Sep 19th**  |
+|  09:30 - 10:00		|  Morning wrap-up: what have we done so far?  |
+|  10:00 - 11:00		|  Biological applications (III)  |
 |  11:00 - 11:30		|  Coffee Break  |
 |  11:30 - 12:30		|  3D Modeling of real Hi-C data with TADbit (I)  |
 |  *12:30 - 14:00*		|  *Lunch Break*  |
 |  14:00 - 16:00		|  3D Modeling of real Hi-C data with TADbit (II)  |
 |  *16:00 - 16:30*		|  *Tea Break*  |
 |  16:30 - 18:00		|  Final wrap-up session  |
-|  **Day #5**  |  **Friday, Sep 21st**  |
-|  09:30 - 11:00		|  Morning wrap-up: what have we done so far?<br>Chromatin structure and Hi-C data  |
+|  **Day #4**  |  **Thursday, Sep 20th**	 |
+|  09:30 - 10:00		|  Morning wrap-up: what have we done so far?  |
+|  10:00 - 11:00		|  Chromatin structure and Hi-C data  |
 |  11:00 - 11:30		|  Coffee Break  |
 |  11:30 - 12:30		|  Integrative modeling applied to chromatin  |
 |  *12:30 - 14:00*		|  *Lunch Break*  |
 |  14:00 - 16:00		|  Biological applications (I)  |
 |  16:00 - 16:30		|  *Tea Break*  |
 |  *16:30 - 18:00*		|  Hi-C contact matrices: filtering and normalization  |
+|  **Day #5**  |  **Friday, Sep 21st**  |
+|  09:30 - 10:00		|  Morning wrap-up: what have we done so far?  |
+|  10:00 - 11:00		|  Multiscale Genomics: From genomes to structures  |
+|  11:00 - 11:30		|  Coffee Break  |
+|  11:30 - 12:30		|  Nucleosome positioning and Nucleosome Dynamics  |
+|  *12:30 - 14:00*		|  *Lunch Break*  |
+|  14:00 - 16:00		|  Coarse-Grained DNA  |
+|  *16:00 - 16:30* 	|  *Tea Break*  |
+|  16:30 - 18:00  |  Chromatin Dynamics  |
 
 ## Course material
 
