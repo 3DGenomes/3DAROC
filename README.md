@@ -157,7 +157,7 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 
 ## Feedback
 
-|                  |  Feedback (1: not clear; 5: very clear) |
+|                  |  Feedback (0: not clear; 5: very clear) |
 |-------------------|------|
 | Day1 | <li>UNIX/Python: 4.3</li><li>FASTQ/Hi-C quality before mapping: 3.8</li><li>Iterative vs Fragment-based mapping: 4.4</li><li>Stats for quality measure of Hi-C experiment: 3.3</li><li>Applied filters in reads: 3.1</li><li>Reading TADbit Hi-C map: 3.6</li>|
 | Day2 | <li>What 3C-based modelling methods told us about genome: 4.5</li><li>3 levels of organization (A/B, TADs, loops): 4.7</li><li>Modelling 3D genomes: 3.2</li><li>Limits of 3D modelling: 2.9</li><li>TADbit filtering/normalization: 4.0</li>|
