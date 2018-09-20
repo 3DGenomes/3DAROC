@@ -164,4 +164,3 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 | Day3 | <dd>Using TADbit tools: 3.4</dd><dd>A/B bompartment calling: 3.3</dd><dd>TAD calling & comparison: 3.3 </dd>| <dd>3.4</dd><dd>3.3</dd><dd>3.3 </dd> |
 | Day4 |  | |
 | Day5 |  | |
-D
