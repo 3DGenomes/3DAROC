@@ -1,6 +1,6 @@
 # 3DAROC
 
-p>
+<p>
 <img align="right" src=/Documents/Logo/Foto-DNA_MMarti_0.jpg?raw=True>
 
 - [Course description](#course-description)
@@ -100,7 +100,7 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 | Day2 | <ul><li>[Morning wrap up](/Presentations/Day2/01_20180918_Summary_of_day_1.pdf)</li><li>[Chromatin and 3Cs](/Presentations/Day2/02_20180918_Chromatin_and_3Cs.pdf)</li><li>[TADbit](/Presentations/Day2/03_20180918_TADbit.pdf)</li><li>[Applications (I): Caulobacter](/Presentations/Day2/04_20180918_Applications(II)_Caulobacter.pdf)</li></ul>| <ul><li>[Filterind reads](/Notebooks/03-Filtering%20mapped%20reads.ipynb)</li><li>[Normalization](Notebooks/04-Bin-filtering%20and%20normalization.ipynb)</li></ul> | <ul><li>[Compare/merge experiments](/Notebooks/A3-Compare%20and%20merge%20Hi-C%20experiments.ipynb)</li></ul> |
 | Day3 | <ul><li>[Morning wrap up](/Presentations/Day3/01_20180919_Summary_of_day_2.pdf)</li><li>[Applications(II) TAD hormone](/Presentations/Day3/02_20180919_Applications(II)_TAD_hormone.pdf)</li><li>[Applications (III) SOX2 Dynamics](/Presentations/Day3/02_20180920_Applications(IIIa)_SOX2Dynamics.pdf)</li></ul>| <ul><li>[Compartments and TADs](/Notebooks/05-Compartments%20and%20TADs.ipynb)</li></ul> | <ul><li>[Align and compare TADs](/Notebooks/A4-Align%20and%20compare%20TADs.ipynb)</li></ul> |
 | Day4 | <ul><li>[Morning wrap up](/Presentations/Day4/01_20180920_Summary_of_day_3.pdf)</li><li>[Applications(IV): Super-resolution Imaging and modeling](/Presentations/Day4/03_20180920_Applications(IIIb)_IMGR.pdf)</li></ul>| <ul><li>[Parameter optimization](/Notebooks/06a-Modeling%20-%20parameter%20optimization.ipynb)</li><li>[Model optimization](/Notebooks/06b-Modeling%20-%20model%20optimization.ipynb)</li></ul> | <ul><li>[Analysis of 3D models](/Notebooks/A5-Modeling%20-%20analysis%20of%203D%20models.ipynb)</li></ul> |
-| Day5 | <ul><li>[Nucleosome dynamics](/Presentations/Day5/nucleosome_dynamics.pdf)</li><li>[DNA and chromatin dynamics](/Presentations/Day5/nucleosome_dynamics.pdf)</li></ul>|  |
+| Day5 | <ul><li>[Nucleosome dynamics](/Presentations/Day5/NucDyn_3DAROC18.pdf)</li><li>[DNA and chromatin dynamics](/Presentations/Day5/)</li></ul>|  |
 
 ## Course Timetable
 
