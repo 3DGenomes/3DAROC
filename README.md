@@ -162,5 +162,5 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 | Day1 | <dd>- UNIX/Python</dd><dd>- FASTQ/Hi-C quality before mapping </dd><dd>- Iterative vs Fragment-based mapping </dd><dd>- Stats for quality measure of Hi-C experiment </dd><dd>- Applied filters in reads </dd><dd>- Reading TADbit Hi-C map </dd> | <dd> 4.3 </dd><dd> 3.8 </dd><dd> 4.4 </dd><dd> 3.3 </dd><dd> 3.1 </dd><dd> 3.6 </dd> |
 | Day2 | <dd>- What 3C-based modelling methods told us about genome</dd><dd>- 3 levels of organization (A/B, TADs, loops)</dd><dd>- Modelling 3D genomes</dd><dd>- Limits of 3D modelling</dd><dd>- TADbit filtering/normalization</dd>| <dd> 4.5 </dd><dd> 4.7 </dd><dd> 3.2 </dd><dd> 2.9 </dd><dd> 4.0 </dd>|
 | Day3 | <dd>- Using TADbit tools: 3.4</dd><dd>- A/B bompartment calling: 3.3</dd><dd>- TAD calling & comparison: 3.3 </dd>| <dd>3.4</dd><dd>3.3</dd><dd>3.3 </dd> |
-| Day4 | <dd>- Modeling genomes </dd>- Analyzing the 3D genomes <dd>- Reading the output of the genome analysis</dd> | <dd>  2.7 </dd><dd> 2.6 </dd> <dd> 3.1 </dd> |
+| Day4 | <dd>- Modeling genomes </dd>- Analyzing the 3D genomes <dd>- Reading the output of the model analysis</dd> | <dd>  2.7 </dd><dd> 2.6 </dd> <dd> 3.1 </dd> |
 | Day5 |  | |
