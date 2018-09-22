@@ -13,6 +13,7 @@
 - [Course Timetable](#course-timetable)
 - [Course material](#course-material)
 - [Feedback](#feedback)
+- [Thanks](#thanks)
 
 ## Course description
 
@@ -164,3 +165,8 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 | Day3 | <dd>- Using TADbit tools: 3.4</dd><dd>- A/B bompartment calling: 3.3</dd><dd>- TAD calling & comparison: 3.3 </dd>| <dd>3.4</dd><dd>3.3</dd><dd>3.3 </dd> |
 | Day4 | <dd>- Modeling genomes </dd>- Analyzing the 3D genomes <dd>- Reading the output of the model analysis</dd> | <dd>  2.7 </dd><dd> 2.6 </dd> <dd> 3.1 </dd> |
 | Day5 |  | |
+
+## Thanks!
+
+<img align="right" src=3DAROC_Group.JPG?>
+
